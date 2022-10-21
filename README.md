@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey, I'm Catalin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+You can also call me George.
+
+### 🛠 &nbsp;Tech Stack
+
+[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=007ACC)](https://golang.org/)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 
 <!--
 **chofnar/chofnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
