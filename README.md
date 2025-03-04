@@ -1,11 +1,12 @@
 ### Hey, I'm Catalin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-You can also call me George.
 
-### 🛠 &nbsp;Tech Stack
+Nice to meet you.
 
-[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=007ACC)](https://golang.org/)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+My programming language of choice is [![Go](https://img.shields.io/badge/Go!-blue)](https://golang.org/) but can also handle [![Python](https://img.shields.io/badge/Python-purple)](https://www.python.org/).
 
+Check out my [Telegram bot](https://github.com/chofnar/release-bot) - you can tell it to send you notifications about GitHub releases of your favorite projects!
+
+You can reach out to me on [Linkedin](https://www.linkedin.com/in/catalin-george-hofnar/) or to my email address: [catalin.hofnar@tuta.io](mailto:catalin.hofnar@tuta.io)
 
 <!--
 **chofnar/chofnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
